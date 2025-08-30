@@ -1,5 +1,6 @@
 i write feature in 2c-folder application must have to help (fastest to slower) users:
 1- find student data with search or a few clicks.
 --describe: just imagine one teacher has lots of student from differend /class, /schools and /personal. so he or she want to find the one in a thousant in few seconds.
+  i must try give full information from student and none information to find none student "erlier".
 --how: a serch bar with powerful filter and simple directory.
 ----design: so you need only design a serch bar with powerful filter and simple directory.
