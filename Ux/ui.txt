@@ -8,7 +8,7 @@ guide = no need
 
 ----
 blog section;
-2. slider of blog, tutorial and another things...
+2. slider of blog, tutorial and another things
 
 ----
 section of buttoms;
