@@ -11,8 +11,14 @@ blog section;
 2. slider of blog, tutorial and another things
 
 ----
-section of buttoms;
-3. directory buttom: stu list, sch list
+section of buttons;
+3. directory button: stu list, sch list
 4. pop-up fast note
+
 ----
+section of reports buttons;
+5. teaching plan
+6. pjs techer and stuTeacher
+
+---- 
 
