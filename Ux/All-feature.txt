@@ -1,9 +1,18 @@
-i write feature in 2c-folder application must have to help (fastest to slower) users:
-1- find student data with search or a few clicks.
+#i write feature in 2c-folder application must have to help (fastest to slower) users:
+
+1. find student data with search or a few clicks. == 3
 --describe: just imagine one teacher has lots of student from differend /class, /schools and /personal. so he or she want to find the one in a thousant in few seconds.
   i must try give full information from student and none information to find none student "erlier".
 --how: a serch bar with powerful filter and simple directory.
 ----design: so you need only design a serch bar with powerful filter and simple directory.
 
 -----
-2- 
+
+2. pop-up fast note.
+--describe: user is teaching in class and want write aboute stu's, there isnt enough time for this and user must have a note in pop-up state.
+--how: rel to stu or stus(needed to serchbar and time mangement to find auto class) and without rel.
+         determied with day time.
+         notes has a thing like sms directory and manage its.
+         ai to expand thins later.
+
+----
