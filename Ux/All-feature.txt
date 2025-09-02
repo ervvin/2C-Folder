@@ -4,3 +4,4 @@ i write feature in 2c-folder application must have to help (fastest to slower) u
   i must try give full information from student and none information to find none student "erlier".
 --how: a serch bar with powerful filter and simple directory.
 ----design: so you need only design a serch bar with powerful filter and simple directory.
+
