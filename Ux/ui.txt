@@ -12,7 +12,7 @@ blog section;
 
 ----
 section of buttons;
-3. directory button: stu list, sch list
+3. directory button: stu list, sch list, edit group
 4. pop-up fast note
 
 ----
