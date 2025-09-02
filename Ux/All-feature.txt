@@ -5,3 +5,5 @@ i write feature in 2c-folder application must have to help (fastest to slower) u
 --how: a serch bar with powerful filter and simple directory.
 ----design: so you need only design a serch bar with powerful filter and simple directory.
 
+-----
+2- 
