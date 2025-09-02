@@ -7,11 +7,12 @@ guide = no need
 // design like pornhub
 
 ----
+blog section;
 2. slider of blog, tutorial and another things...
 
 ----
 section of buttoms;
 3. directory buttom: stu list, sch list
-
+4. pop-up fast note
 ----
 
