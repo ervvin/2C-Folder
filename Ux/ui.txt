@@ -1,3 +1,5 @@
+#page 1;
+
 1. search bar and fillters.(first look)
 style = white and simple icons.
 animation = opens whole of the page by on click and cursor types everything user whants.
@@ -6,6 +8,10 @@ guide = no need
 
 ----
 2. slider of blog, tutorial and another things...
+
+----
+section of buttoms;
+3. directory buttom: stu list, sch list
 
 ----
 
